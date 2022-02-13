@@ -1,0 +1,14 @@
+{
+  "name": "test-gabriela",
+  "version": "1.0.0",
+  "description": "Test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriela Echeverria",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  }
+}
