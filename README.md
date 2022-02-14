@@ -1,7 +1,7 @@
 # Fortezsa
 ## Parte 2: Pruebas automatizadas - Gabriela Echeverría
 
-Todos las pruebas automatizadas se enncuentran dentro de un mismo archivo llamado 'fortesza.js'
+Todos las pruebas automatizadas se encuentran dentro de un mismo archivo llamado 'fortesza.js'.
 Para correr las pruebas automatizadas es muy importante tener previamente 
 configurado el entorno, instalando 
 1. node.js
@@ -20,10 +20,10 @@ Este último comando, abrirá una ventana de cypress en el que se muestra el arc
 
 Dentro del archivo 'fortesza.js' se encuentran las pruebas con los siguientes nombres: 
 1. Register user
-2. Edit user correo26@testmail-42.com
+2. Edit user 
 3. Edit telefono
 4. Edit mail
 5. Sign out
 
 <h2> Nota: </h2> 
-<p> Si no tiene instalado cypres, el comando 'npx cypress open' hará lo necesario para instalar el framework y, posteriormente, abrir la ventana para la ejecución de pruebas automatizadas. </p>
+<p> Si no tiene instalado cypress, el comando 'npx cypress open' hará lo necesario para instalar el framework y, posteriormente, abrir la ventana para la ejecución de pruebas automatizadas. </p>
